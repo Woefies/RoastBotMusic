@@ -38,7 +38,7 @@ client.on("message", (message) => {
 
 
 //music gedeelte
-/*const fs = require('fs');
+/* const fs = require('fs');
 const ytdl = require('ytdl-core');
 
 const streamOptions = { seek: 0, volume: 1 };
@@ -53,4 +53,3 @@ var voiceChannel = message.member.voiceChannel;
             });
         }).catch(err => console.log(err)); */
  
-client.login("NDkyMjU2MjQ2OTM0Nzk4MzM2.Do4V2g.svrkwyfirQQ86oFXsQMPEU_Hfv4");
